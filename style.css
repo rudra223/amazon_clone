@@ -34,7 +34,7 @@ body{
 
 .logo{
     height: 50px;
-    background-image: url("/images/amazon_logo.png");
+    background-image: url("images/amazon_logo.png");
     background-size: cover;
     width: 110px;
 }
@@ -223,7 +223,7 @@ body{
 /**hero section **/
 
 .hero-section{
-    background:url(/images/hero_image1.jpg);
+    background:url("images/hero_image1.jpg");
     height: 50vh;
     background-size: cover;
     display: flex;
