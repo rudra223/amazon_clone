@@ -34,7 +34,7 @@ body{
 
 .logo{
     height: 50px;
-    background-image: url("/images/amazon_logo.png");
+    background-image: url("images/amazon_logo.png");
     background-size: cover;
     width: 110px;
 }
